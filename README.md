@@ -1,2 +1,2 @@
 # OpenCL-code-Files
-List of OpenCL sample codes, I tried creating
+List of basic OpenCL sample codes
